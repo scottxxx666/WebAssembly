@@ -1,1 +1,1 @@
-# go-webassembly
+# webassembly
